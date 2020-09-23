@@ -61,7 +61,7 @@ The ROC curve obtained from this model concludes that since most of the curve de
 Based on the classification report, the precision of the Negative Reason as Damaged Luggage was 0.0. Which suggestes that all of its predictions were incorrect. The model was not able to predict this reason because the firstly, the model has very few number of the tweets with the negative reason as ***'Damaged Luggage'*** for it to learn from the model.  
 
 
-P.S. The .txt file containing ***Generic Tweets*** exceeds 25MB to be allowed to upload. It can be found in the [zip](https://github.com/danishanis/Text-and-Sentiment-Analysis/blob/master/SentimentAnalysisData.zip) folder here.
+P.S. The .txt file containing ***Generic Tweets*** exceeds 25MB to be allowed to upload. It can be found in the [zip](https://github.com/puneet1407/Text-and-Sentiment-Analysis/blob/master/SentimentAnalysisData.zip) folder here.
 
 
 
