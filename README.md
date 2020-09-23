@@ -38,7 +38,7 @@ The tweets, as given, are not in a form amenable to analysis -- there is too muc
 
 ### Model Preperation
 
-Generic Tweets dataset ([zip](https://github.com/danishanis/Text-and-Sentiment-Analysis/blob/master/SentimentAnalysisData.zip)) is randomly split into training data (70%) and test data (30%). The data is prepared for ***logistic regression*** where each tweet is considered a single observation. In the logistic regression model, the outcome variable is the sentiment value, which is either positive or negative. The independent variables or features of the model can be whatever we want.
+Generic Tweets dataset ([zip](https://github.com/puneet1407/Text-and-Sentiment-Analysis/blob/master/SentimentAnalysisData.zip)) is randomly split into training data (70%) and test data (30%). The data is prepared for ***logistic regression*** where each tweet is considered a single observation. In the logistic regression model, the outcome variable is the sentiment value, which is either positive or negative. The independent variables or features of the model can be whatever we want.
 
 The frequency of each word is used as features of the model. (Alternatively, one can first tag each n-gram by its part of speech and then use the frequency of each part of speech as the features of the model.)
 
